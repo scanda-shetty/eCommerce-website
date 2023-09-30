@@ -8,5 +8,5 @@
 
 
 Snapshots
-![Screenshot (57)](https://github.com/scanda-shetty/eCommerce-website/assets/105596977/2e98cdb8-a040-46bd-901b-1c0cded41af5)
-![Screenshot (58)](https://github.com/scanda-shetty/eCommerce-website/assets/105596977/4fb373db-7ed5-4536-adca-2d38abfaf5d7)
+![Screenshot (57)](https://github.com/scanda-shetty/eCommerce-website/assets/105596977/ae613da5-c92c-4562-8260-a6925cca4910)
+![Screenshot (58)](https://github.com/scanda-shetty/eCommerce-website/assets/105596977/024d6c8c-ce8c-41d0-81d3-496928faf3c6)
