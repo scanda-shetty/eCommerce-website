@@ -1,0 +1,364 @@
+{
+    "items": [
+        {
+            "sys": {
+                "id": "1"
+            },
+            "fields": {
+                "company": "INDIE PICKS",
+                "title": "Embroidered Kurta",
+                "price": 499,
+                "category": "kurta",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/kurta1.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "2"
+            },
+            "fields": {
+                "company": "INDIE PICKS",
+                "title": "Cotton Kurta",
+                "price": 349,
+                "category": "kurta",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/kurta2.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "3"
+            },
+            "fields": {
+                "company": "INDIE PICKS",
+                "title": "HandLoom Kurta",
+                "price": 300,
+                "category": "kurta",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/kurta3.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "4"
+            },
+            "fields": {
+                "company": "INDIE PICKS",
+                "title": "Silk Kurta",
+                "price": 890,
+                "category": "kurta",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/kurta4.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "5"
+            },
+            "fields": {
+                "company": "INDIE PICKS",
+                "title": "Casual Kurta",
+                "price": 499,
+                "category": "kurta",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/kurta5.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "6"
+            },
+            "fields": {
+                "company": "H&M",
+                "title": "Hawaii Shirt",
+                "price": 499,
+                "category": "shirt",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/shirt1.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "7"
+            },
+            "fields": {
+                "company": "H&M",
+                "title": "Floral Shirt",
+                "price": 499,
+                "category": "shirt",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/shirt2.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "8"
+            },
+            "fields": {
+                "company": "H&M",
+                "title": "Beach Shirt",
+                "price": 399,
+                "category": "shirt",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/shirt3.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "9"
+            },
+            "fields": {
+                "company": "H&M",
+                "title": "Resort Shirt",
+                "price": 449,
+                "category": "shirt",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/shirt4.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "10"
+            },
+            "fields": {
+                "company": "H&M",
+                "title": "Printed Shirt",
+                "price": 499,
+                "category": "shirt",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/shirt5.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "11"
+            },
+            "fields": {
+                "company": "DNMX",
+                "title": "Printed T-Shirt",
+                "price": "349",
+                "category": "t-shirt",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/t1.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "12"
+            },
+            "fields": {
+                "company": "DNMX",
+                "title": "Casual T-Shirt",
+                "price": "149",
+                "category": "t-shirt",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/t2.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "13"
+            },
+            "fields": {
+                "company": "DNMX",
+                "title": "Polo T-Shirt",
+                "price": "300",
+                "category": "t-shirt",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/t3.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "14"
+            },
+            "fields": {
+                "company": "DNMX",
+                "title": "Floral T-Shirt",
+                "price": "499",
+                "category": "t-shirt",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/t4.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "15"
+            },
+            "fields": {
+                "company": "DNMX",
+                "title": "Solid T-Shirt",
+                "price": "130",
+                "category": "t-shirt",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/t5.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "16"
+            },
+            "fields": {
+                "company": " MUFTI",
+                "title": "Chinos",
+                "price": 899,
+                "category": "pant",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/p1.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "17"
+            },
+            "fields": {
+                "company": "MUFTI",
+                "title": "Casual Pants",
+                "price": 799,
+                "category": "pant",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/p2.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "18"
+            },
+            "fields": {
+                "company": "H&M",
+                "title": "Solid Pants",
+                "price": 499,
+                "category": "pant",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/p3.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "19"
+            },
+            "fields": {
+                "company": "DNMX",
+                "title": "Formal Pants",
+                "price": 1099,
+                "category": "pant",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/p4.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "20"
+            },
+            "fields": {
+                "company": "DNMX",
+                "title": "Jeans",
+                "price": 999,
+                "category": "pant",
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "static/images/p5.png"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

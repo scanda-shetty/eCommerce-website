@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+
+
+{% block body %}
+
+    <!-- navbar-->
+    <nav class="navbar">
+        <div class="navbar-center">
+            <span class="nav-icon">
+               <i class="fas fa-bars"></i>
+           </span>
+            <div class="search-container">
+                <form action="/home/query">
+                    <input id="result" type="text" value="" placeholder="Search.." name="query">
+                    <button type="submit" id="form-btn"><i class="fa fa-search"></i></button>
+                </form>
+
+
+            </div>
+            <div class="search-container">
+                <button onclick="startConverting(); setTimeout(ssearch,8000);">
+                <span class="nav-icon">
+                    <i class="fas fa-microphone"></i>
+                 </span>
+            </div>
+            <div>
+                <span><div class="profile-icon">
+                    <i class="fa-solid fa-user-tie"></i>
+                    <div class="dropdown-content">
+                        <a href="{{ url_for('logout') }}">Sign Out</a>
+                    </div>
+                </div>
+                </span>
+                
+            </div>
+            <div class="cart-btn">
+                <span class="nav-icon">
+                   <i class="fas fa-cart-plus"></i>
+                </span>
+                <div class="cart-items">0</div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- end of navbar-->
+   <span id="user-id" data-user-id="{{ user_id }}"></span>
+{% endblock %}
